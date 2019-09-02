@@ -40,6 +40,5 @@ Your diet:
 
 Created by:
 **[Szymon Wicki](https://www.linkedin.com/in/szymon-wicki-bb5b89177/)**
-#####Rafał Mieczejko
-#####Szymon Wicki
-#####Paweł Szychowski
+**[Rafał Mieczejko](https://www.linkedin.com/in/rafa%C5%82-mieczejko-149492190/)**
+**[Paweł Szychowski](https://www.linkedin.com/in/pawe%C5%82-szychowski-992b16172/)**
