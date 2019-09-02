@@ -1,6 +1,6 @@
 
 
-[![logo](https://raw.githubusercontent.com/PawelSzychowski/projekt-grupowy/master/src/main/resources/static/img/logo.jpg?token=ALH7BZK5ZQOX3YZD7BZRTEC5NJP6W)](https://nutrel.herokuapp.com)
+[![logo](https://raw.githubusercontent.com/SzymonWicki/nutreal-calories-calculator/master/src/main/resources/static/img/logo.jpg)](https://nutreal.herokuapp.com/)
 
 
 #### Losing weight isn't easy - we know. 
