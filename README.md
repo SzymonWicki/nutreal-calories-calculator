@@ -1,27 +1,27 @@
 
 
-[![logo](https://raw.githubusercontent.com/PawelSzychowski/projekt-grupowy/master/src/main/resources/static/img/logo.jpg?token=ALH7BZK5ZQOX3YZD7BZRTEC5NJP6W)](https://nutrel.herokuapp.com)
+[![logo](https://raw.githubusercontent.com/SzymonWicki/nutreal-calories-calculator/master/src/main/resources/static/img/logo.jpg)](https://nutreal.herokuapp.com)
 
 
 #### Losing weight isn't easy - we know. 
-But with a membership to **[Nutreal](https://nutrel.herokuapp.com)**, you'll get the tools you need to successfully take weight off - and keep it off.
+But with a membership to **[Nutreal](https://nutreal.herokuapp.com)**, you'll get the tools you need to successfully take weight off - and keep it off.
 
 And best of all, you can signup for free, no strings attached.
 
-Remember, It takes five minutes to consume 500 calories. It takes two hours to burn them off, so keep that in mind and use **[Nutreal](https://nutrel.herokuapp.com)**.
+Remember, It takes five minutes to consume 500 calories. It takes two hours to burn them off, so keep that in mind and use **[Nutreal](https://nutreal.herokuapp.com)**.
 
 ##
 
 #### This is how our application look like:
 
 Main page:
-![screenshot1](https://raw.githubusercontent.com/PawelSzychowski/projekt-grupowy/master/src/main/resources/static/screenshots/Screenshot_2019-08-31%20Nutreal.jpg?token=ALH7BZMBEU5O7XT44PNTCIS5NJP6O)
+![screenshot1](https://raw.githubusercontent.com/SzymonWicki/nutreal-calories-calculator/master/src/main/resources/static/screenshots/Screenshot_2019-08-31%20Nutreal.jpg)
 
 Login page:
-![screenshot1](https://raw.githubusercontent.com/PawelSzychowski/projekt-grupowy/master/src/main/resources/static/screenshots/Screenshot_2019-08-31%20Nutreal1.jpg?token=ALH7BZLBXMLHQOCMJX73FS25NJP6Q)
+![screenshot2](https://raw.githubusercontent.com/SzymonWicki/nutreal-calories-calculator/master/src/main/resources/static/screenshots/Screenshot_2019-08-31%20Nutreal1.jpg)
 
 Your diet:
-![screenshot1](https://raw.githubusercontent.com/PawelSzychowski/projekt-grupowy/master/src/main/resources/static/screenshots/Screenshot_2019-08-31%20Nutreal2.jpg?token=ALH7BZMCS7OHUSV2ZX644L25NJP6Q)
+![screenshot3](https://raw.githubusercontent.com/SzymonWicki/nutreal-calories-calculator/master/src/main/resources/static/screenshots/Screenshot_2019-08-31%20Nutreal2.jpg)
 
 
 ##
@@ -38,7 +38,7 @@ Your diet:
 
 ##
 
-Created by:
-#####Rafał Mieczejko
-#####Szymon Wicki
-#####Paweł Szychowski
+Created by:<br/><br/>
+**[Szymon Wicki](https://www.linkedin.com/in/szymon-wicki-bb5b89177/)**<br/>
+**[Rafał Mieczejko](https://www.linkedin.com/in/rafa%C5%82-mieczejko-149492190/)**<br/>
+**[Paweł Szychowski](https://www.linkedin.com/in/pawe%C5%82-szychowski-992b16172/)**
