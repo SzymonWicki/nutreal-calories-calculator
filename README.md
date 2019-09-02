@@ -35,6 +35,9 @@ Your diet:
 * Spring Security
 * MySql
 * Heroku
+* HTML
+* CSS
+* Java Script
 
 ##
 
