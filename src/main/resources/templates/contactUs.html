@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Omnifood is a premium food delivery service with the mission to bring affordable and healty meals to as many people as possible.">
+
+    <link href="../static/css/normalize.css" th:href="@{/css/style.css}" rel="stylesheet" />
+    <link href="../static/css/grid.css" th:href="@{/css/grid.css}" rel="stylesheet" />
+    <link href="../static/css/ionicons.min.css" th:href="@{/css/ionicons.min.css}" rel="stylesheet" />
+    <link href="../static/css/animate.css" th:href="@{/css/animate.css}" rel="stylesheet" />
+    <link href="../static/css/style.css" th:href="@{/css/style.css}" rel="stylesheet" />
+    <link href="../static/css/queries.css" th:href="@{/css/queries.css}" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
+    <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
+
+    <title>Nutreal</title>
+</head>
+
+<body>
+<header>
+    <nav>
+        <div class="row">
+            <a href="/index" th:href="@{/index}"><img src="../static/img/logo-white.png" th:src="@{img/logo-white.png}" alt="Omnifood logo" class="logo" /></a>
+            <img src="../static/img/logo.png" th:src="@{img/logo.png}" alt="Omnifood logo" class="logo-black">
+            <ul class="main-nav js--main-nav">
+<!--                <li><a href="/index" th:href="@{/index}">Index</a></li>-->
+<!--                <li><a href="/productsList" th:href="@{/productsList}">Products</a></li>-->
+                <li><a href="#">Sign up</a></li>
+            </ul>
+            <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
+        </div>
+    </nav>
+</header>
+
+<section class="products" id="daily">
+    <div class="text-box">
+        <h2>Contact Us</h2>
+    </div>
+
+    <div class="row" id="contactUs">
+        <form method="post" action="/template" class="contact-form" id="contactFo">
+            <div class="row">
+                <div class="col span-1-of-3">
+                    <label for="name">Name</label>
+                </div>
+                <div class="col span-2-of-3">
+                    <input type="text" name="name" id="name" placeholder="Your name" required>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col span-1-of-3">
+                    <label for="email">Email</label>
+                </div>
+                <div class="col span-2-of-3">
+                    <input type="email" name="email" id="email" placeholder="Your email" required>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col span-1-of-3">
+                    <label>Drop us a line</label>
+                </div>
+                <div class="col span-2-of-3">
+                    <textarea type="text" name="description" id="description" placeholder="Your message"></textarea>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col span-1-of-3">
+                    <label>&nbsp;</label>
+                </div>
+                <div class="col span-2-of-3">
+                    <input type="submit" value="Send it!">
+                </div>
+            </div>
+        </form>
+
+</section>
+
+<footer>
+        <div class="row">
+            <div class="col span-1-of-2 footer-nav">
+                <ul>
+                    <li>Copyright &copy; 2019 by nutreal</li>
+                    <li><a href="/contactUs" th:href="@{/contactUs}">Contact us</a></li>
+                </ul>
+            </div>
+            <div class="col span-1-of-2">
+                <ul class="social-links">
+                    <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+                    <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                    <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+                    <li><a href="#"><i class="ion-social-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js"></script>
+<script src="../static/js/jquery.waypoints.min.js" th:src="@{/js/jquery.waypoints.min.js}"></script>
+<script src="../static/js/script.js" th:src="@{/js/script.js}"></script>
+
+</body>
+</html>
